@@ -1,3 +1,19 @@
 body {
-    background: url("../images/bg_portfolio_greybrick.jpg");
-  }
+    background-image: url("../images/bg_portfolio_greybrick.jpg");
+}
+
+#para {
+    color: #B3B6B7;
+}
+
+h1 {
+    color: #B3B6B7;
+}
+
+#color {
+    color: #B3B6B7;
+}
+
+.container {
+    background: rgba(0,0,0,0.4);
+}
